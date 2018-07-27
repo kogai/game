@@ -1,3 +1,5 @@
 /target
 *.log
 /dist
+/public/*.wasm
+/public/*.js
